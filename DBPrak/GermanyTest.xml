@@ -1,0 +1,397 @@
+<country>
+		<name xml:space="preserve">Germany</name>
+		<Introduction>
+			<Background xml:space="preserve">As Europe's largest economy and most populous nation, Germany remains a key member of the continent's economic, political, and defense organizations. European power struggles immersed the country in two devastating World Wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key Western economic and security organizations, the EC, which became the EU, and NATO, while the Communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German unification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 2002, Germany and 11 other EU countries introduced a common European currency, the euro.</Background>
+		</Introduction>
+		<Geography>
+			<Location xml:space="preserve">Central Europe, bordering the Baltic Sea and the North Sea, between the Netherlands and Poland, south of Denmark</Location>
+			<Geographic_coordinates>
+				<Latitude>
+					<Degree xml:space="preserve">51</Degree>
+					<Minute xml:space="preserve">00</Minute>
+					<Direction xml:space="preserve">N</Direction>
+				</Latitude>
+				<Longitude>
+					<Degree xml:space="preserve">9</Degree>
+					<Minute xml:space="preserve">00</Minute>
+					<Direction xml:space="preserve">E</Direction>
+				</Longitude>
+			</Geographic_coordinates>
+			<Map_references xml:space="preserve">Europe</Map_references>
+			<Area>
+				<total unit="sq km" xml:space="preserve">357021</total>
+				<water unit="sq km" xml:space="preserve">7798</water>
+				<land unit="sq km" xml:space="preserve">349223</land>
+			</Area>
+			<Land_boundaries>
+				<border_countries>
+					<item>
+						<name xml:space="preserve">Austria</name>
+						<value unit="km" xml:space="preserve">784</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Belgium</name>
+						<value unit="km" xml:space="preserve">167</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Czech Republic</name>
+						<value unit="km" xml:space="preserve">646</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Denmark</name>
+						<value unit="km" xml:space="preserve">68</value>
+					</item>
+					<item>
+						<name xml:space="preserve">France</name>
+						<value unit="km" xml:space="preserve">451</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Luxembourg</name>
+						<value unit="km" xml:space="preserve">138</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Netherlands</name>
+						<value unit="km" xml:space="preserve">577</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Poland</name>
+						<value unit="km" xml:space="preserve">456</value>
+					</item>
+					<item>
+						<name xml:space="preserve">Switzerland</name>
+						<value unit="km" xml:space="preserve">334</value>
+					</item>
+				</border_countries>
+			</Land_boundaries>
+			<Coastline unit="km" xml:space="preserve">2389</Coastline>
+			<Climate xml:space="preserve">temperate and marine; cool, cloudy, wet winters and summers; occasional warm foehn wind</Climate>
+			<Elevation_extremes>
+				<lowest_point>
+					<name xml:space="preserve">Neuendorf bei Wilster -</name>
+					<height unit="m" xml:space="preserve">-3.54</height>
+				</lowest_point>
+				<highest_point>
+					<name xml:space="preserve">Zugspitze</name>
+					<height unit="m" xml:space="preserve">2963</height>
+				</highest_point>
+			</Elevation_extremes>
+			<Natural_resources>
+				<name xml:space="preserve">iron ore</name>
+				<name xml:space="preserve">coal</name>
+				<name xml:space="preserve">potash</name>
+				<name xml:space="preserve">timber</name>
+				<name xml:space="preserve">lignite</name>
+				<name xml:space="preserve">uranium</name>
+				<name xml:space="preserve">copper</name>
+				<name xml:space="preserve">natural gas</name>
+				<name xml:space="preserve">salt</name>
+				<name xml:space="preserve">nickel</name>
+				<name xml:space="preserve">arable land</name>
+			</Natural_resources>
+			<Land_use>
+				<arable_land unit="%" xml:space="preserve">33.88</arable_land>
+				<permanent_crops unit="%" xml:space="preserve">0.65</permanent_crops>
+				<other unit="%" xml:space="preserve">65.47</other>
+			</Land_use>
+			<Irrigated_land unit="sq km" xml:space="preserve">4850</Irrigated_land>
+			<Natural_hazards xml:space="preserve">flooding</Natural_hazards>
+		</Geography>
+		<People>
+			<Population xml:space="preserve">82398326</Population>
+			<Age_structure>
+				<_0_14_years>
+					<male xml:space="preserve">6312614</male>
+					<female xml:space="preserve">5988681</female>
+				</_0_14_years>
+				<_15_64_years>
+					<male xml:space="preserve">28213316</male>
+					<female xml:space="preserve">27240648</female>
+				</_15_64_years>
+				<_65_years_and_over>
+					<male xml:space="preserve">5842457</male>
+					<female xml:space="preserve">8800610</female>
+				</_65_years_and_over>
+			</Age_structure>
+			<Population_growth_rate unit="%" xml:space="preserve">0.04</Population_growth_rate>
+			<Birth_rate xml:space="preserve">8.6</Birth_rate>
+			<Death_rate xml:space="preserve">10.34</Death_rate>
+			<Net_migration_rate xml:space="preserve">2.18</Net_migration_rate>
+			<Sex_ratio>
+				<at_birth xml:space="preserve">1.06</at_birth>
+				<under_15_years xml:space="preserve">1.05</under_15_years>
+				<_15_64_years xml:space="preserve">1.04</_15_64_years>
+				<_65_years_and_over xml:space="preserve">0.66</_65_years_and_over>
+				<total_population xml:space="preserve">0.96</total_population>
+			</Sex_ratio>
+			<Life_expectancy_at_birth>
+				<total_population xml:space="preserve">78.42</total_population>
+				<male xml:space="preserve">75.46</male>
+				<female xml:space="preserve">81.55</female>
+			</Life_expectancy_at_birth>
+			<Total_fertility_rate xml:space="preserve">1.37</Total_fertility_rate>
+			<Nationality>
+				<noun xml:space="preserve">German(s)</noun>
+				<adjective xml:space="preserve">German</adjective>
+			</Nationality>
+			<Ethnic_groups>
+				<item>
+					<name xml:space="preserve">German</name>
+					<value unit="%" xml:space="preserve">91.5</value>
+				</item>
+				<item>
+					<name xml:space="preserve">Turkish</name>
+					<value unit="%" xml:space="preserve">2.4</value>
+				</item>
+			</Ethnic_groups>
+			<Religions>
+				<item>
+					<name xml:space="preserve">Protestant</name>
+					<value unit="%" xml:space="preserve">34</value>
+				</item>
+				<item>
+					<name xml:space="preserve">Roman Catholic</name>
+					<value unit="%" xml:space="preserve">34</value>
+				</item>
+				<item>
+					<name xml:space="preserve">Muslim</name>
+					<value unit="%" xml:space="preserve">3.7</value>
+				</item>
+			</Religions>
+			<Languages>
+				<item>
+					<name xml:space="preserve">German</name>
+				</item>
+			</Languages>
+			<Literacy>
+				<definition xml:space="preserve">age 15 and over can read and write</definition>
+				<total_population unit="%" xml:space="preserve">99</total_population>
+			</Literacy>
+		</People>
+		<Government>
+			<Country_name>
+				<conventional_long_form xml:space="preserve">Federal Republic of Germany</conventional_long_form>
+				<conventional_short_form xml:space="preserve">Germany</conventional_short_form>
+				<local_short_form xml:space="preserve">Deutschland</local_short_form>
+				<former xml:space="preserve">German Empire, German Republic, German Reich</former>
+				<local_long_form xml:space="preserve">Bundesrepublik Deutschland</local_long_form>
+			</Country_name>
+			<Government_type xml:space="preserve">federal republic</Government_type>
+			<Capital xml:space="preserve">Berlin</Capital>
+			<Administrative_divisions xml:space="preserve">16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein, Thueringen</Administrative_divisions>
+			<Independence xml:space="preserve">18 January 1871 (German Empire unification); divided into four zones of occupation (UK, US, USSR, and later, France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed 7 October 1949 and included the former USSR zone; unification of West Germany and East Germany took place 3 October 1990; all four powers formally relinquished rights 15 March 1991</Independence>
+			<National_holiday xml:space="preserve">Unity Day, 3 October (1990)</National_holiday>
+			<Constitution xml:space="preserve">23 May 1949, known as Basic Law; became constitution of the united German people 3 October 1990</Constitution>
+			<Suffrage xml:space="preserve">18 years of age; universal</Suffrage>
+			<Executive_branch>
+				<chief_of_state xml:space="preserve">President Johannes RAU (since 1 July 1999)</chief_of_state>
+				<head_of_government xml:space="preserve">Chancellor Gerhard SCHROEDER (since 27 October 1998)</head_of_government>
+			</Executive_branch>
+			<Political_parties_and_leaders>
+				<name xml:space="preserve">Alliance '90/Greens [Angelika BEER and Reinhard BUETIKOFER]</name>
+				<name xml:space="preserve">Christian Democratic Union or CDU [Angela MERKEL]</name>
+				<name xml:space="preserve">Christian Social Union or CSU [Edmund STOIBER, chairman]</name>
+				<name xml:space="preserve">Free Democratic Party or FDP [Guido WESTERWELLE, chairman]</name>
+				<name xml:space="preserve">Party of Democratic Socialism or PDS [Gabriele ZIMMER]</name>
+				<name xml:space="preserve">Social Democratic Party or SPD [Gerhard SCHROEDER, chairman]</name>
+			</Political_parties_and_leaders>
+			<International_organization_participation>
+				<name xml:space="preserve">AfDB</name>
+				<name xml:space="preserve">AsDB</name>
+				<name xml:space="preserve">Australia Group</name>
+				<name xml:space="preserve">BDEAC</name>
+				<name xml:space="preserve">BIS</name>
+				<name xml:space="preserve">BSEC</name>
+				<name xml:space="preserve">CBSS</name>
+				<name xml:space="preserve">CDB</name>
+				<name xml:space="preserve">CE</name>
+				<name xml:space="preserve">CERN</name>
+				<name xml:space="preserve">EAPC</name>
+				<name xml:space="preserve">EBRD</name>
+				<name xml:space="preserve">ECE</name>
+				<name xml:space="preserve">EIB</name>
+				<name xml:space="preserve">EMU</name>
+				<name xml:space="preserve">ESA</name>
+				<name xml:space="preserve">EU</name>
+				<name xml:space="preserve">FAO</name>
+				<name xml:space="preserve">G-5</name>
+				<name xml:space="preserve">G-7</name>
+				<name xml:space="preserve">G-8</name>
+				<name xml:space="preserve">G-10</name>
+				<name xml:space="preserve">IADB</name>
+				<name xml:space="preserve">IAEA</name>
+				<name xml:space="preserve">IBRD</name>
+				<name xml:space="preserve">ICAO</name>
+				<name xml:space="preserve">ICC</name>
+				<name xml:space="preserve">ICCt</name>
+				<name xml:space="preserve">ICFTU</name>
+				<name xml:space="preserve">ICRM</name>
+				<name xml:space="preserve">IDA</name>
+				<name xml:space="preserve">IEA</name>
+				<name xml:space="preserve">IFAD</name>
+				<name xml:space="preserve">IFC</name>
+				<name xml:space="preserve">IFRCS</name>
+				<name xml:space="preserve">IHO</name>
+				<name xml:space="preserve">ILO</name>
+				<name xml:space="preserve">IMF</name>
+				<name xml:space="preserve">IMO</name>
+				<name xml:space="preserve">Interpol</name>
+				<name xml:space="preserve">IOC</name>
+				<name xml:space="preserve">IOM</name>
+				<name xml:space="preserve">ISO</name>
+				<name xml:space="preserve">ITU</name>
+				<name xml:space="preserve">MONUC</name>
+				<name xml:space="preserve">NAM</name>
+				<name xml:space="preserve">NATO</name>
+				<name xml:space="preserve">NEA</name>
+				<name xml:space="preserve">NSG</name>
+				<name xml:space="preserve">OAS</name>
+				<name xml:space="preserve">OECD</name>
+				<name xml:space="preserve">OPCW</name>
+				<name xml:space="preserve">OSCE</name>
+				<name xml:space="preserve">PCA</name>
+				<name xml:space="preserve">UN</name>
+				<name xml:space="preserve">UN Security Council</name>
+				<name xml:space="preserve">UNAMSIL</name>
+				<name xml:space="preserve">UNCTAD</name>
+				<name xml:space="preserve">UNESCO</name>
+				<name xml:space="preserve">UNHCR</name>
+				<name xml:space="preserve">UNIDO</name>
+				<name xml:space="preserve">UNIKOM</name>
+				<name xml:space="preserve">UNMIBH</name>
+				<name xml:space="preserve">UNMIK</name>
+				<name xml:space="preserve">UNMOVIC</name>
+				<name xml:space="preserve">UNOMIG</name>
+				<name xml:space="preserve">UPU</name>
+				<name xml:space="preserve">WADB</name>
+				<name xml:space="preserve">WCO</name>
+				<name xml:space="preserve">WEU</name>
+				<name xml:space="preserve">WHO</name>
+				<name xml:space="preserve">WIPO</name>
+				<name xml:space="preserve">WMO</name>
+				<name xml:space="preserve">WToO</name>
+				<name xml:space="preserve">WTrO</name>
+				<name xml:space="preserve">ZC</name>
+			</International_organization_participation>
+			<Flag_description xml:space="preserve">three equal horizontal bands of black (top), red, and gold</Flag_description>
+		</Government>
+		<Economy>
+			<GDP unit="$" xml:space="preserve">2184000000000</GDP>
+			<Inflation_rate unit="%" xml:space="preserve">1.3</Inflation_rate>
+			<Labor_force xml:space="preserve">41900000</Labor_force>
+			<Unemployment_rate unit="%" xml:space="preserve">9.8</Unemployment_rate>
+			<Budget>
+				<revenues unit="$" xml:space="preserve">802000000000</revenues>
+				<expenditures unit="$" xml:space="preserve">825000000000</expenditures>
+			</Budget>
+			<Industries xml:space="preserve">among the world's largest and most technologically advanced producers of iron, steel, coal, cement, chemicals, machinery, vehicles, machine tools, electronics, food and beverages; shipbuilding; textiles</Industries>
+			<Industrial_production_growth_rate unit="%" xml:space="preserve">-2.1</Industrial_production_growth_rate>
+			<Agriculture_products>
+				<name xml:space="preserve">potatoes</name>
+				<name xml:space="preserve">wheat</name>
+				<name xml:space="preserve">barley</name>
+				<name xml:space="preserve">sugar</name>
+				<name xml:space="preserve">fruits</name>
+				<name xml:space="preserve">cabbages</name>
+				<name xml:space="preserve">cattle</name>
+				<name xml:space="preserve">pigs</name>
+				<name xml:space="preserve">poultry</name>
+			</Agriculture_products>
+			<Exports unit="$" xml:space="preserve">608000000000</Exports>
+			<Imports unit="$" xml:space="preserve">487300000000</Imports>
+			<Currency xml:space="preserve">euro (EUR) note: on 1 January 1999, the European Monetary Union introduced the euro as a common currency to be used by financial institutions of member countries; on 1 January 2002, the euro became the sole currency for everyday transactions within the member countries</Currency>
+			<Exchange_rates xml:space="preserve">euros per US dollar - 1.0626 (2002), 1.1175 (2001), 1.0854 (2000), 0.9386 (1999), 1.7597 (1998)</Exchange_rates>
+		</Economy>
+		<Communications>
+			<Radio_broadcast_stations>
+				<AM xml:space="preserve">51</AM>
+				<FM xml:space="preserve">787</FM>
+				<shortwave xml:space="preserve">4</shortwave>
+			</Radio_broadcast_stations>
+			<Television_broadcast_stations xml:space="preserve">373</Television_broadcast_stations>
+		</Communications>
+		<Transportation>
+			<Railways>
+				<total unit="km" xml:space="preserve">45514</total>
+			</Railways>
+			<Highways>
+				<paved unit="km" xml:space="preserve">650891</paved>
+				<unpaved unit="km" xml:space="preserve">5249</unpaved>
+			</Highways>
+			<Waterways unit="km" xml:space="preserve">7500</Waterways>
+			<Pipelines>
+				<item>
+					<name xml:space="preserve">crude oil</name>
+					<value unit="km" xml:space="preserve">2240</value>
+				</item>
+			</Pipelines>
+			<Ports_and_harbors>
+				<name xml:space="preserve">Berlin</name>
+				<name xml:space="preserve">Bonn</name>
+				<name xml:space="preserve">Brake</name>
+				<name xml:space="preserve">Bremen</name>
+				<name xml:space="preserve">Bremerhaven</name>
+				<name xml:space="preserve">Cologne</name>
+				<name xml:space="preserve">Dresden</name>
+				<name xml:space="preserve">Duisburg</name>
+				<name xml:space="preserve">Emden</name>
+				<name xml:space="preserve">Hamburg</name>
+				<name xml:space="preserve">Karlsruhe</name>
+				<name xml:space="preserve">Kiel</name>
+				<name xml:space="preserve">Luebeck</name>
+				<name xml:space="preserve">Magdeburg</name>
+				<name xml:space="preserve">Mannheim</name>
+				<name xml:space="preserve">Rostock</name>
+				<name xml:space="preserve">Stuttgart</name>
+			</Ports_and_harbors>
+			<Merchant_marine>
+				<total xml:space="preserve">337</total>
+				<item>
+					<name xml:space="preserve">cargo</name>
+					<value xml:space="preserve">94</value>
+				</item>
+				<item>
+					<name xml:space="preserve">chemical tanker</name>
+					<value xml:space="preserve">15</value>
+				</item>
+				<item>
+					<name xml:space="preserve">container</name>
+					<value xml:space="preserve">203</value>
+				</item>
+				<item>
+					<name xml:space="preserve">liquefied gas</name>
+					<value xml:space="preserve">3</value>
+				</item>
+				<item>
+					<name xml:space="preserve">passenger</name>
+					<value xml:space="preserve">3</value>
+				</item>
+				<item>
+					<name xml:space="preserve">petroleum tanker</name>
+					<value xml:space="preserve">5</value>
+				</item>
+				<item>
+					<name xml:space="preserve">railcar carrier</name>
+					<value xml:space="preserve">2</value>
+				</item>
+				<item>
+					<name xml:space="preserve">refrigerated cargo</name>
+					<value xml:space="preserve">1</value>
+				</item>
+				<item>
+					<name xml:space="preserve">roll on</name>
+				</item>
+				<item>
+					<name xml:space="preserve">short-sea passenger</name>
+					<value xml:space="preserve">7</value>
+				</item>
+			</Merchant_marine>
+			<Airports xml:space="preserve">551</Airports>
+			<Heliports xml:space="preserve">40</Heliports>
+		</Transportation>
+		<Military>
+			<Military_branches xml:space="preserve">Army, Navy (including naval air arm), Air Force, Medical Corps, Joint Support Service</Military_branches>
+		</Military>
+		<Transnational_Issues>
+			<Illicit_drugs xml:space="preserve">source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs This page was last updated on 1 August, 2003</Illicit_drugs>
+		</Transnational_Issues>
+	</country>

@@ -1,0 +1,209 @@
+<WorldFactbook>
+	<country>
+		<name xml:space="preserve">Aruba</name>
+		<Introduction>
+			<Background xml:space="preserve">Formerly one of the Netherlands Antilles, Aruba became an autonomous part of the Netherlands in 1986.</Background>
+		</Introduction>
+		<Geography>
+			<Location xml:space="preserve">Caribbean, island in the Caribbean Sea, north of Venezuela</Location>
+			<Geographic_coordinates>
+				<Latitude>
+					<Degree xml:space="preserve">12</Degree>
+					<Minute xml:space="preserve">30</Minute>
+					<Direction xml:space="preserve">N</Direction>
+				</Latitude>
+				<Longitude>
+					<Degree xml:space="preserve">69</Degree>
+					<Minute xml:space="preserve">58</Minute>
+					<Direction xml:space="preserve">W</Direction>
+				</Longitude>
+			</Geographic_coordinates>
+			<Map_references xml:space="preserve">Central America and the Caribbean</Map_references>
+			<Area>
+				<total unit="sq km" xml:space="preserve">193</total>
+				<land unit="sq km" xml:space="preserve">193</land>
+				<water unit="sq km" xml:space="preserve">0</water>
+			</Area>
+			<Coastline unit="km" xml:space="preserve">68.5</Coastline>
+			<Climate xml:space="preserve">tropical marine; little seasonal temperature variation</Climate>
+			<Elevation_extremes>
+				<lowest_point>
+					<name xml:space="preserve">Caribbean Sea</name>
+					<height unit="m" xml:space="preserve">0</height>
+				</lowest_point>
+				<highest_point>
+					<name xml:space="preserve">Mount Jamanota</name>
+					<height unit="m" xml:space="preserve">188</height>
+				</highest_point>
+			</Elevation_extremes>
+			<Land_use>
+				<arable_land unit="%" xml:space="preserve">7</arable_land>
+				<other unit="%" xml:space="preserve">93</other>
+			</Land_use>
+			<Irrigated_land unit="sq km" xml:space="preserve">0.01</Irrigated_land>
+			<Natural_hazards xml:space="preserve">lies outside the Caribbean hurricane belt</Natural_hazards>
+		</Geography>
+		<People>
+			<Population xml:space="preserve">69539</Population>
+			<Age_structure>
+				<_0_14_years>
+					<male xml:space="preserve">7770</male>
+					<female xml:space="preserve">7194</female>
+				</_0_14_years>
+				<_15_64_years>
+					<male xml:space="preserve">22944</male>
+					<female xml:space="preserve">24810</female>
+				</_15_64_years>
+				<_65_years_and_over>
+					<male xml:space="preserve">2831</male>
+					<female xml:space="preserve">3990</female>
+				</_65_years_and_over>
+			</Age_structure>
+			<Population_growth_rate unit="%" xml:space="preserve">0.7</Population_growth_rate>
+			<Birth_rate xml:space="preserve">13.1</Birth_rate>
+			<Death_rate xml:space="preserve">6.13</Death_rate>
+			<Net_migration_rate xml:space="preserve">0</Net_migration_rate>
+			<Sex_ratio>
+				<at_birth xml:space="preserve">1.05</at_birth>
+				<under_15_years xml:space="preserve">1.08</under_15_years>
+				<_15_64_years xml:space="preserve">0.92</_15_64_years>
+				<_65_years_and_over xml:space="preserve">0.71</_65_years_and_over>
+				<total_population xml:space="preserve">0.93</total_population>
+			</Sex_ratio>
+			<Infant_mortality_rate xml:space="preserve">6.51</Infant_mortality_rate>
+			<Life_expectancy_at_birth>
+				<total_population xml:space="preserve">78.37</total_population>
+				<male xml:space="preserve">75</male>
+				<female xml:space="preserve">81.9</female>
+			</Life_expectancy_at_birth>
+			<Total_fertility_rate xml:space="preserve">1.8</Total_fertility_rate>
+			<Nationality>
+				<noun xml:space="preserve">Aruban(s)</noun>
+				<adjective xml:space="preserve">Aruban</adjective>
+			</Nationality>
+			<Religions>
+				<item>
+					<name xml:space="preserve">Roman Catholic</name>
+					<value unit="%" xml:space="preserve">82</value>
+				</item>
+				<item>
+					<name xml:space="preserve">Protestant</name>
+					<value unit="%" xml:space="preserve">8</value>
+				</item>
+				<item>
+					<name xml:space="preserve">Hindu</name>
+				</item>
+				<item>
+					<name xml:space="preserve">Muslim</name>
+				</item>
+				<item>
+					<name xml:space="preserve">Confucian</name>
+				</item>
+				<item>
+					<name xml:space="preserve">Jewish</name>
+				</item>
+			</Religions>
+			<Languages>
+				<item>
+					<name xml:space="preserve">Dutch</name>
+				</item>
+				<item>
+					<name xml:space="preserve">Papiamento</name>
+				</item>
+				<item>
+					<name xml:space="preserve">English</name>
+				</item>
+				<item>
+					<name xml:space="preserve">Spanish</name>
+				</item>
+			</Languages>
+			<Literacy>
+				<total_population unit="%" xml:space="preserve">97</total_population>
+			</Literacy>
+		</People>
+		<Government>
+			<Country_name>
+				<conventional_short_form xml:space="preserve">Aruba</conventional_short_form>
+			</Country_name>
+			<Data_code xml:space="preserve">AA</Data_code>
+			<Dependency_status xml:space="preserve">part of the Kingdom of the Netherlands; full autonomy in internal affairs obtained in 1986 upon separation from the Netherlands Antilles</Dependency_status>
+			<Government_type xml:space="preserve">parliamentary democracy</Government_type>
+			<Capital xml:space="preserve">Oranjestad</Capital>
+			<National_holiday xml:space="preserve">Flag Day, 18 March</National_holiday>
+			<Constitution xml:space="preserve">1 January 1986</Constitution>
+			<Suffrage xml:space="preserve">18 years of age; universal</Suffrage>
+			<Executive_branch>
+				<chief_of_state xml:space="preserve">Queen BEATRIX Wilhelmina Armgard of the Netherlands (since 30 April 1980), represented by Governor General Olindo KOOLMAN (since 1 January 1992)</chief_of_state>
+				<head_of_government xml:space="preserve">Prime Minister Jan (Henny) H. EMAN (since 29 July 1994) and Deputy Prime Minister Dr. Lili BEKE-MARTINEZ (since NA)</head_of_government>
+			</Executive_branch>
+			<Political_parties_and_leaders>
+				<name xml:space="preserve">Aruban Democratic Party or PDA [Leo BERLINSKI]</name>
+				<name xml:space="preserve">Aruban Liberal Party or OLA [Glenbert CROES]</name>
+				<name xml:space="preserve">Aruban Patriotic Party or PPA [Benny NISBET]</name>
+				<name xml:space="preserve">Aruban People's Party or AVP [Jan  H. EMAN]</name>
+				<name xml:space="preserve">Aruba Solidarity Movement or MAS [leader NA]</name>
+				<name xml:space="preserve">Democratic Action '86 or AD '86 [Arturo ODUBER]</name>
+				<name xml:space="preserve">Electoral Movement Party or MEP [Nelson ODUBER]</name>
+				<name xml:space="preserve">Electoral People's Movement or MEP [Betico CROES]</name>
+				<name xml:space="preserve">For a Restructured Aruba Now or PARA [Urbana LOPEZ]</name>
+				<name xml:space="preserve">National Democratic Action or ADN [Pedro Charro KELLY]</name>
+				<name xml:space="preserve">New Patriotic Party or PPN [Eddy WERLEMEN]</name>
+			</Political_parties_and_leaders>
+			<International_organization_participation>
+				<name xml:space="preserve">Caricom</name>
+				<name xml:space="preserve">ECLAC</name>
+				<name xml:space="preserve">Interpol</name>
+				<name xml:space="preserve">IOC</name>
+				<name xml:space="preserve">UNESCO</name>
+				<name xml:space="preserve">WCL</name>
+				<name xml:space="preserve">WToO</name>
+			</International_organization_participation>
+			<Flag_description xml:space="preserve">blue, with two narrow, horizontal, yellow stripes across the lower portion and a red, four-pointed star outlined in white in the upper hoist-side corner</Flag_description>
+		</Government>
+		<Economy>
+			<GDP unit="$" xml:space="preserve">1600000000</GDP>
+			<Inflation_rate unit="%" xml:space="preserve">2</Inflation_rate>
+			<Labor_force xml:space="preserve">41501</Labor_force>
+			<Unemployment_rate unit="%" xml:space="preserve">0.6</Unemployment_rate>
+			<Budget>
+				<expenditures unit="$" xml:space="preserve">541000000</expenditures>
+			</Budget>
+			<Industries xml:space="preserve">tourism, transshipment facilities, oil refining</Industries>
+			<Agriculture_products>
+				<name xml:space="preserve">aloes</name>
+				<name xml:space="preserve">livestock</name>
+				<name xml:space="preserve">fish</name>
+			</Agriculture_products>
+			<Exports unit="$" xml:space="preserve">1170000000</Exports>
+			<Imports unit="$" xml:space="preserve">1520000000</Imports>
+			<Currency xml:space="preserve">1 Aruban florin (Af.) = 100 cents</Currency>
+			<Exchange_rates xml:space="preserve">Aruban florins (Af.) per US$1 - 1.7900 (fixed rate since 1986)</Exchange_rates>
+		</Economy>
+		<Communications>
+			<Radio_broadcast_stations>
+				<AM xml:space="preserve">4</AM>
+				<FM xml:space="preserve">6</FM>
+				<shortwave xml:space="preserve">0</shortwave>
+			</Radio_broadcast_stations>
+			<Radios xml:space="preserve">50000</Radios>
+			<Television_broadcast_stations xml:space="preserve">1</Television_broadcast_stations>
+			<Televisions xml:space="preserve">20000</Televisions>
+		</Communications>
+		<Transportation>
+			<Highways>
+				<paved unit="km" xml:space="preserve">513</paved>
+				<unpaved unit="km" xml:space="preserve">287</unpaved>
+			</Highways>
+			<Ports_and_harbors>
+				<name xml:space="preserve">Barcadera</name>
+				<name xml:space="preserve">Oranjestad</name>
+				<name xml:space="preserve">Sint Nicolaas</name>
+			</Ports_and_harbors>
+			<Airports xml:space="preserve">2</Airports>
+		</Transportation>
+		<Transnational_Issues>
+			<Illicit_drugs xml:space="preserve">drug-money-laundering center and transit point for narcotics bound for the US and Europe</Illicit_drugs>
+		</Transnational_Issues>
+	</country>
+</WorldFactbook>
+	
